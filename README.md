@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Pradhyuman
-- Goodbye
+- 👋 Hi
 
 <!---
 pradhyuman-yadav/pradhyuman-yadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
