@@ -1,6 +1,8 @@
-- 👋 Hi
 
-<!---
-pradhyuman-yadav/pradhyuman-yadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=pradhyuman-yadav&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/pradhyuman-yadav?pet-id=667541367018247548"
+    width="600"
+    height="220"
+  />
+</a>
